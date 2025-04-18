@@ -1,10 +1,7 @@
 # 🚀 AI-Powered Startup Analyst
 
 This project uses AI to analyze startup data and provide:
-- SWOT Analysis
-- Business Model
-- Product-Market Fit
-- Investment Suggestions
+
 
 ## 🛠️ Built With
 - GPT-3.5 via OpenRouter
@@ -16,16 +13,21 @@ You can choose to:
 - **Enter data manually** (Startup Name, Description, Founders, Funding, Website, Category)
 - **Upload a CSV file** with multiple startups
 
-## 📂 How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+## 🛠 Future Enhancements (Planned)
+This project is designed to be extensible. In the future, we plan to:
 
-## 🧠 Prompt Example
-```
-You're a startup analyst. Analyze this startup...
-```
+🔍 Automatic Startup Enrichment
+Use APIs to auto-fill missing details (like Founders, Funding, Website, Category):
+
+➕ Crunchbase API (Recommended)
+Public API available with structured startup data
+Enables auto-enrichment for well-known startups
+Docs: https://data.crunchbase.com/docs
+
+🇮🇳 Tracxn API (Enterprise-grade)
+Rich database of Indian & global startups
+Enterprise access required
+Website: https://tracxn.com
 
 ## 🔗 Try it Live
 [StartupAnalyst](https://startupanalyst.streamlit.app/)
