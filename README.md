@@ -11,8 +11,10 @@ This project uses AI to analyze startup data and provide:
 - Python + Streamlit
 - Google Sheets / CSV
 
-## 📷 Demo
-Upload a CSV and see analysis for each startup.
+## How it works
+You can choose to:
+- **Enter data manually** (Startup Name, Description, Founders, Funding, Website, Category)
+- **Upload a CSV file** with multiple startups
 
 ## 📂 How to Run
 ```bash
