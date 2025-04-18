@@ -68,4 +68,12 @@ Use APIs to auto-fill missing details (like Founders, Funding, Website, Category
 ## 🔗 Try it Live
 [StartupAnalyst](https://startupanalyst.streamlit.app/)
 
+## Sample Data
+> Satrtup - CRED
+> Founder - Kunal Shah
+> Funding - $867M
+> Website - https://cred.club/
+> Category - FinTech
+> Description - CRED is a members-only app and fintech company, primarily known for its rewards-based system for credit card bill payments. It also offers a suite of financial services, including UPI payments, bill payments for various utilities, and even loan products. 
+
 ## 🙋‍♀️ Made by Sneha Kudchadkar
