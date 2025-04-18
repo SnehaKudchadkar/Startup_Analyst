@@ -42,8 +42,8 @@ This project uses AI to analyze startup data and deliver a comprehensive founder
 
 ## How it works
 You can choose to:
-> **Enter data manually** (Startup Name, Description, Founders, Funding, Website, Category)
-> **Upload a CSV file** with multiple startups
+> ### **Enter data manually** (Startup Name, Description, Founders, Funding, Website, Category)
+> ### **Upload a CSV file** with multiple startups
 
 
 
@@ -69,11 +69,11 @@ Use APIs to auto-fill missing details (like Founders, Funding, Website, Category
 [StartupAnalyst](https://startupanalyst.streamlit.app/)
 
 ## Sample Data
-> Satrtup - CRED
-> Founder - Kunal Shah
-> Funding - $867M
-> Website - https://cred.club/
-> Category - FinTech
-> Description - CRED is a members-only app and fintech company, primarily known for its rewards-based system for credit card bill payments. It also offers a suite of financial services, including UPI payments, bill payments for various utilities, and even loan products. 
+> ### Satrtup - CRED
+> ### Founder - Kunal Shah
+> ### Funding - $867M
+> ### Website - https://cred.club/
+> ### Category - FinTech
+> ### Description - CRED is a members-only app and fintech company, primarily known for its rewards-based system for credit card bill payments. It also offers a suite of financial services, including UPI payments, bill payments for various utilities, and even loan products. 
 
 ## 🙋‍♀️ Made by Sneha Kudchadkar
