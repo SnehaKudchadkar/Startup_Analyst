@@ -26,6 +26,6 @@ You're a startup analyst. Analyze this startup...
 ```
 
 ## 🔗 Try it Live
-[Coming Soon...](https://startupanalyst.streamlit.app/)
+[StartupAnalyst](https://startupanalyst.streamlit.app/)
 
-## 🙋‍♀️ Made by Sneha
+## 🙋‍♀️ Made by Sneha Kudchadkar
