@@ -4,7 +4,7 @@
 
 ## This project uses AI to analyze startup data and deliver a comprehensive founder- or investor-level analysis. For each startup, the app provides:
 
-### Executive Summary – A high-level overview of the startup
+> ### Executive Summary – A high-level overview of the startup
 
 ### Problem Statement – What pain point the startup is addressing
 
